@@ -1,7 +1,7 @@
 from util import * 
 
 random.seed(11)
-base_directory = 'C:/Sebbe/IoTBotNet/'
+base_directory = ''
 
 run_analysis(base_directory + 'DanminiDoorbell/',0.9,False,False)
 run_analysis(base_directory + 'EcobeeThermostat/',0.9,False,False)

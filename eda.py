@@ -1,7 +1,7 @@
 import pandas as pd
 from util import *
 
-base_directory = 'C:/Sebbe/IoTBotNet/'
+base_directory = ''
 
 device_names = ['DanminiDoorbell',
                 'EcobeeThermostat',
