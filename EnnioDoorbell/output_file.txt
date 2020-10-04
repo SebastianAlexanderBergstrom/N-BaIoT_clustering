@@ -1,0 +1,8 @@
+C:
+Number of principal components used to explain 0.9 of the variation : 16
+Davies-Bouldin indices : {2: 0.6819840838218357, 3: 1.1726545708980056, 4: 1.0151097853414361, 5: 0.8791400116881741, 6: 1.3168522898739579, 7: 1.1317775248094166, 8: 1.1131009149529625, 9: 1.158630579790847, 10: 1.1152346757121232, 11: 1.2690184491753573}
+The lowest value of the Davies-Bouldin index (0.6819840838218357) was obtained for K = 2
+Number of obs in the different clusters: 
+{0: {'cluster number': 0, 'nr_of_obs_in_cluster': 85624}, 1: {'cluster number': 1, 'nr_of_obs_in_cluster': 269876}}
+Distribution of the labels among the different clusters: 
+["benign_traffic {'clusters': array([0, 1]), 'nr_of_obs_with_label': array([ 2324, 36776], dtype=int64)}", "combo {'clusters': array([0, 1]), 'nr_of_obs_with_label': array([52999,    15], dtype=int64)}", "junk {'clusters': array([0, 1]), 'nr_of_obs_with_label': array([29784,    13], dtype=int64)}", "scan {'clusters': array([0, 1]), 'nr_of_obs_with_label': array([  382, 27738], dtype=int64)}", "tcp {'clusters': array([0, 1]), 'nr_of_obs_with_label': array([    84, 101452], dtype=int64)}", "udp {'clusters': array([0, 1]), 'nr_of_obs_with_label': array([    51, 103882], dtype=int64)}"]
