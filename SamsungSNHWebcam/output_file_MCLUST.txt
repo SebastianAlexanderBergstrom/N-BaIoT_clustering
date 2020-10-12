@@ -1,0 +1,6 @@
+C:
+The lowest value of the Davies-Bouldin index (1.4164743621846203) was obtained for K = 2
+Number of obs in the different clusters: 
+{0: {'cluster number': 0, 'nr_of_obs_in_cluster': 44760}, 1: {'cluster number': 1, 'nr_of_obs_in_cluster': 330462}}
+Distribution of the labels among the different clusters: 
+["benign_traffic {'clusters': array([0, 1], dtype=int64), 'nr_of_obs_with_label': array([43439,  8711], dtype=int64)}", "combo_gafgyt {'clusters': array([0, 1], dtype=int64), 'nr_of_obs_with_label': array([   59, 58610], dtype=int64)}", "junk_gafgyt {'clusters': array([0, 1], dtype=int64), 'nr_of_obs_with_label': array([   73, 28232], dtype=int64)}", "scan_gafgyt {'clusters': array([0, 1], dtype=int64), 'nr_of_obs_with_label': array([ 1047, 26651], dtype=int64)}", "tcp_gafgyt {'clusters': array([0, 1], dtype=int64), 'nr_of_obs_with_label': array([   56, 97727], dtype=int64)}", "udp_gafgyt {'clusters': array([0, 1], dtype=int64), 'nr_of_obs_with_label': array([    86, 110531], dtype=int64)}"]
