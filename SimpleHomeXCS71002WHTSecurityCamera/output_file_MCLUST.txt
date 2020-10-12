@@ -1,0 +1,6 @@
+C:
+The lowest value of the Davies-Bouldin index (1.4585241363919699) was obtained for K = 5
+Number of obs in the different clusters: 
+{0: {'cluster number': 0, 'nr_of_obs_in_cluster': 220815}, 1: {'cluster number': 1, 'nr_of_obs_in_cluster': 82549}, 2: {'cluster number': 2, 'nr_of_obs_in_cluster': 23544}, 3: {'cluster number': 3, 'nr_of_obs_in_cluster': 20673}, 4: {'cluster number': 4, 'nr_of_obs_in_cluster': 2227}}
+Distribution of the labels among the different clusters: 
+["benign_traffic {'clusters': array([0, 2, 3, 4], dtype=int64), 'nr_of_obs_with_label': array([ 1131, 22901, 20366,  2187], dtype=int64)}", "combo_gafgyt {'clusters': array([0, 1, 2, 3, 4], dtype=int64), 'nr_of_obs_with_label': array([  176, 54049,     3,    52,     3], dtype=int64)}", "junk_gafgyt {'clusters': array([0, 1, 2, 3, 4], dtype=int64), 'nr_of_obs_with_label': array([   37, 28500,     3,    35,     4], dtype=int64)}", "scan_gafgyt {'clusters': array([0, 2, 3, 4], dtype=int64), 'nr_of_obs_with_label': array([27075,   547,   174,    29], dtype=int64)}", "tcp_gafgyt {'clusters': array([0, 2, 3, 4], dtype=int64), 'nr_of_obs_with_label': array([88737,    47,    30,     2], dtype=int64)}", "udp_gafgyt {'clusters': array([0, 2, 3, 4], dtype=int64), 'nr_of_obs_with_label': array([103659,     43,     16,      2], dtype=int64)}"]
